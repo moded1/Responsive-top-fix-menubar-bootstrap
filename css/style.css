@@ -1,0 +1,49 @@
+.navbar-light .navbar-brand {
+	color:#fff;
+}
+.navbar-brand{
+	font-size:30px;
+	font-weight:800;
+}
+
+
+
+
+.bg-custom{
+	background-color:rgba(204,204,204,0.5);
+}
+.navbar-light .navbar-nav .nav-link{
+	color:#fff;
+	text-transform:uppercase;
+	font-weight:800;
+}
+.navbar-light .navbar-nav .nav-item.active .nav-link, .navbar-light .navbar-nav .nav-link:hover{
+	color:#fff;
+	background:rgba(38,38,38,0.4);
+	border-radius:5px; 
+} 
+.navbar-nav .nav-link{
+ padding-left:10px;
+} 
+
+
+
+ /*
+@media only screen and (max-width: 992px){
+	
+ .navbar{
+	 position:relative;
+ }
+ .navbar-nav{
+	position:absolute;
+	top:0;
+	left:0;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    } */
